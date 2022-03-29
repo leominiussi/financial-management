@@ -1,9 +1,9 @@
-## ALURA BACKEND CHARLLENGE 2
+## ALURA backend Challenge 2
 
 Using alura case to study Clojure and Datomic !!
 
 
-Edição #2: Desafio Back-End
+Edição #2: Desafio Back-End 
 Crie uma API Rest funcional focada em controle financeiro
 https://www.alura.com.br/challenges/back-end-2
 
