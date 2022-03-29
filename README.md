@@ -1,4 +1,4 @@
-## ALURA backend Challenge 2
+## ALURA Backend Challenge 2
 
 Using alura case to study Clojure and Datomic !!
 
