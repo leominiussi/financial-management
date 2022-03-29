@@ -1,10 +1,13 @@
-# financial-management
+ALURA BACKEND CHARLLENGE 2
 
-A Clojure library designed to ... well, that part is up to you.
+Using alura case to study Clojure and Datomic !!
 
-## Usage
 
-FIXME
+Edição #2: Desafio Back-End
+Crie uma API Rest funcional focada em controle financeiro
+https://www.alura.com.br/challenges/back-end-2
+
+
 
 ## License
 
